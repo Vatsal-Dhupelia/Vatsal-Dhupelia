@@ -33,15 +33,15 @@
 
 <p align="center">
     <a href="https://github.com/Vatsal-Dhupelia/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vatsal Dhupelia's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsal-Dhupelia&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vatsal Dhupelia's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Vatsal-Dhupelia&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727"/>
     </a>
 </p>  
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
 <br/>
  <p align="center">
-    <a href="https://github.com/Vatsal-Dhupelia/github-readme-stats"><img alt="Vatsal Dhupelia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vatsal-Dhupelia&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vatsal-Dhupelia&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727)](https://git.io/streak-stats)
  </p>
   <p align="center">
   <a href="https://github.com/Vatsal-Dhupelia/github-readme-stats"><img alt="Vatsal Dhupelia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsal-Dhupelia&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -50,7 +50,7 @@
 <br/>
 <br/>
   
-
+ -->
 ## Connect with me:
 <p align="left"> 
   <a href = "mailto:vatsaldhupelia@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
