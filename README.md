@@ -37,20 +37,16 @@
     </a>
 </p>  
 
-<!-- ## 📊 My Github Stats
+## 📊 My Github Stats
 
 <br/>
  <p align="center">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vatsal-Dhupelia&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727)](https://git.io/streak-stats)
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vatsal-Dhupelia&show_icons=true&theme=dark&line_height=27" alt="Vatsal's github stats"/>
  </p>
   <p align="center">
   <a href="https://github.com/Vatsal-Dhupelia/github-readme-stats"><img alt="Vatsal Dhupelia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsal-Dhupelia&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
   
-<br/>
-<br/>
-  
- -->
 ## Connect with me:
 <p align="left"> 
   <a href = "mailto:vatsaldhupelia@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
@@ -58,30 +54,3 @@
   <a href = "https://twitter.com/DhupeliaVatsal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href = "https://www.instagram.com/vatsal_dhupelia_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
-<!--  <p align="center">  
-   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-      <img src="https://komarev.com/ghpvc/?username=Vatsal-Dhupelia">
-   </a>
- </p> --> 
-<!-- <h4> More Impulsive towards: </h4>
-<p>
-<img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/html_48.svg" alt="HTML" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/css_48.svg" alt="CSS" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/javascript_48.svg" alt="JavaScript" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/nodejs_48.svg" alt="JavaScript" width="48" height="48"/>
-  </p> -->
-
-<!--
-**Vatsal-Dhupelia/Vatsal-Dhupelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
