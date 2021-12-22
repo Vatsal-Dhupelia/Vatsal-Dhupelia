@@ -37,7 +37,7 @@
     </a>
 </p>  
 
-## 📊 My Github Stats
+## 📊 My Github Stats:
 
 <br/>
  <p align="center">
