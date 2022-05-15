@@ -7,9 +7,9 @@
   
   - 🔭 I’m currently working on **MERN STACK**
   
-  - 👯 I’m looking to collaborate on **Web Development Projects**
+  - 👯 I’m looking to collaborate on **Development Projects**
   
-  - 👨‍💻 All of my projects are available at **[Portfolio Website](http://vatsaldhupelia.herokuapp.com/)**
+  - 👨‍💻 All of my projects are available at **[Portfolio Website](https://dhupelia-vatsal.web.app/)**
   
   - 📫 How to reach me **vatsaldhupelia@gmail.com**
 
