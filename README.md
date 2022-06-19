@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vatsal Dhupelia</h1>
+<h1 align="center">Hi, I'm Vatsal Dhupelia</h1>
 
 <h4>Committed to strengthening experiences with positivity and professionalism. Impulsive towards Web Designing and Proficient in developing databases, creating user interfaces, writing and testing codes, troubleshooting simple/complex issues and implementing new features based on experience.<h4>
 
